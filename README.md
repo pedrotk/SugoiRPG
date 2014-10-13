@@ -12,9 +12,18 @@ Supa Jaba Oplen Souce
 * World
 
 ### Heroes
-* Archer
-* Mage
-* Warrior
+* Defender
+* Paladin
+* Rougue 
+
+### Elemental
+* Agua
+* Ar
+* Fogo
+* Luz
+* Terra
+* Terra
+* Trevas
 
 ### Main
 * SugoiRPG
