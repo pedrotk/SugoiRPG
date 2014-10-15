@@ -15,10 +15,12 @@
  */
 package br.game.heroes;
 
+import br.game.objects.*;
+
 /**
  *
  * @author Asus
  */
-public class Paladin {
+public class Paladin  extends Classe {
     
 }

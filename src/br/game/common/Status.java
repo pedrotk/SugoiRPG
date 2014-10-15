@@ -4,12 +4,12 @@
  * and open the template in the editor.
  */
 
-package br.rpg.game;
+package br.game.common;
 
 /**
  *
  * @author rm68317
  */
-public class Vivo {
+public class Status {
     
 }

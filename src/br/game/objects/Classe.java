@@ -3,18 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.game.objects;
 
-import java.util.HashMap;
+package br.game.objects;
 
 /**
  *
- * @author Asus
+ * @author rm68317
  */
-public class Merchant {
-       private HashMap<Integer, Hero> heroes;
-       
-       public Merchant(){
-           
-       }
+public class Classe {
+    public Classe(){
+        
+    }
 }
